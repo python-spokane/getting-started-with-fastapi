@@ -11,8 +11,8 @@
 
 ## Installation
 ```powershell
-git clone https://github.com/IntelliTect-Samples/SpokanePythonUserGroup.git
-cd ./SpokanePythonUserGroup/2021.05.18-FastAPI/
+git clone https://github.com/python-spokane/getting-started-with-fastapi
+getting-started-with-fastapi
 python -m virtualenv ./.venv
 ./.venv/Scripts/Activate.ps1
 pip install -r requirements.txt
